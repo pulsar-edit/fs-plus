@@ -1,3 +1,5 @@
+# This repo is deprecated under Pulsar Edit! It will be replaced with the buildin `fs` package
+
 # fs plus
 [![CI](https://github.com/atom/fs-plus/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/fs-plus/actions/workflows/ci.yml)
 
